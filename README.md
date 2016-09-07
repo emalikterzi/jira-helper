@@ -1,4 +1,4 @@
-Jira Helper
+Jira Helper v0.0.1
 -----------
 
 ---
