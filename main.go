@@ -57,9 +57,9 @@ func main() {
 
 	const windowsInaccuracy = 17 * 1000
 	const delay = 700
-
+	//
 	for {
-		container.Engage();
+		container.CheckCommits();
 		time.Sleep(1000 * windowsInaccuracy * delay)
 	}
 }
